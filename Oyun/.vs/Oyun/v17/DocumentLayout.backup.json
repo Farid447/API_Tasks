@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\Oyun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\languages\\languagegetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\languages\\languagecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LanguageCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Languages\\LanguageCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T00:33:31.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\LanguageService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\LanguageService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\LanguageService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\LanguageService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:44:04.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T23:42:21.9Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LanguageGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T22:34:22.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwCEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T19:32:07.681Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
