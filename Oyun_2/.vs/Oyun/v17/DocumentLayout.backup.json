@@ -11,6 +11,10 @@
       "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\languageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\exceptions\\language\\languagenotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\exceptions\\language\\languageexistexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,24 +66,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "LanguageNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "RelativeDocumentMoniker": "Oyun\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "RelativeToolTip": "Oyun\\Exceptions\\Language\\LanguageNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-19T21:20:21.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LanguageExistException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Exceptions\\Language\\LanguageExistException.cs",
               "RelativeDocumentMoniker": "Oyun\\Exceptions\\Language\\LanguageExistException.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Exceptions\\Language\\LanguageExistException.cs",
               "RelativeToolTip": "Oyun\\Exceptions\\Language\\LanguageExistException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-19T19:08:39.604Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IBaseException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Exceptions\\IBaseException.cs",
               "RelativeDocumentMoniker": "Oyun\\Exceptions\\IBaseException.cs",
@@ -92,7 +109,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ILanguageService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\ILanguageService.cs",
               "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\ILanguageService.cs",
@@ -105,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "IBannedWordService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IBannedWordService.cs",
               "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\IBannedWordService.cs",
@@ -118,7 +135,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IWordService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IWordService.cs",
               "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\IWordService.cs",
@@ -131,7 +148,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "BannedWordService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\BannedWordService.cs",
               "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\BannedWordService.cs",
@@ -144,7 +161,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "WordService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\WordService.cs",
               "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\WordService.cs",
@@ -157,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "BannedWord.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\BannedWord.cs",
               "RelativeDocumentMoniker": "Oyun\\Entities\\BannedWord.cs",
@@ -170,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Word.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Word.cs",
               "RelativeDocumentMoniker": "Oyun\\Entities\\Word.cs",
@@ -183,7 +200,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "LanguageGetDto.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
               "RelativeDocumentMoniker": "Oyun\\DTOs\\Languages\\LanguageGetDto.cs",
@@ -196,7 +213,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "LanguageProfile.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\LanguageProfile.cs",
               "RelativeDocumentMoniker": "Oyun\\Profiles\\LanguageProfile.cs",
@@ -215,7 +232,7 @@
               "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\LanguageService.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\LanguageService.cs",
               "RelativeToolTip": "Oyun\\Services\\Implements\\LanguageService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAwBgAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwCQAAAA/AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T23:44:04.17Z",
               "EditorCaption": ""
@@ -228,7 +245,7 @@
               "RelativeDocumentMoniker": "Oyun\\Controllers\\LanguagesController.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
               "RelativeToolTip": "Oyun\\Controllers\\LanguagesController.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAAABsAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAuwDIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-18T19:32:07.681Z",
               "EditorCaption": ""

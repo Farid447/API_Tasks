@@ -16,28 +16,28 @@ public class LanguageService(GameDbContext _context, IMapper _mapper) : ILanguag
         await _context.SaveChangesAsync();
     }
 
-    public async Task UpdateAsync(string code, LanguageCreateDto dto)
+    public async Task UpdateAsync(string code, LanguageUpdateDto dto)
     {
 
-        var language = _mapper.Map<Language>(dto);
         var data = await _context.Languages.FirstOrDefaultAsync(x => x.Code == code);
-        data = language;
+        _mapper.Map(dto, data);
+        //data.Icon = dto.IconUrl;
         await _context.SaveChangesAsync();
     }
 
-    public void Delete(string code)
+    public async Task DeleteAsync(string code)
     {
-        var data = _context.Languages.FirstOrDefault(x => x.Code == code);
+        var data = await _context.Languages.FirstOrDefaultAsync(x => x.Code == code);
         if(data is not null)
         {
             _context.Languages.Remove(data);
-            _context.SaveChangesAsync();
+            await _context.SaveChangesAsync();
         }
     }
 
-    public IEnumerable<LanguageGetDto> GetDtos()
+    public async Task <IEnumerable<LanguageGetDto>> GetDtosAsync()
     {
-        var datas = _context.Languages.ToList();
+        var datas = await _context.Languages.ToListAsync();
         var languages = datas.Select(x =>
                 _mapper.Map<LanguageGetDto>(x)
             );

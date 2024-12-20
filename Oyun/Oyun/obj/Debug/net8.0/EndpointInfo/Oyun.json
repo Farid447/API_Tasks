@@ -62,17 +62,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/LanguageCreateDto"
+                "$ref": "#/components/schemas/LanguageUpdateDto"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/LanguageCreateDto"
+                "$ref": "#/components/schemas/LanguageUpdateDto"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/LanguageCreateDto"
+                "$ref": "#/components/schemas/LanguageUpdateDto"
               }
             }
           }
@@ -113,6 +113,20 @@
             "type": "string",
             "nullable": true
           },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "iconUrl": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LanguageUpdateDto": {
+        "type": "object",
+        "properties": {
           "name": {
             "type": "string",
             "nullable": true

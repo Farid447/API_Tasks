@@ -10,6 +10,14 @@ public class LanguageProfile : Profile
     {
         CreateMap<LanguageCreateDto, Language>()
             .ForMember(l => l.Icon, d => d.MapFrom(t => t.IconUrl));
+
+        CreateMap<Language, LanguageCreateDto>()
+            .ForMember(l => l.IconUrl, d => d.MapFrom(t => t.Icon));
+
+        CreateMap<LanguageUpdateDto, Language>()
+            .ForMember(l => l.Icon, d => d.MapFrom(t => t.IconUrl));
+        //CreateMap<Language, LanguageUpdateDto>()
+        //    .ForMember(l => l.IconUrl, d => d.MapFrom(t => t.Icon));
         CreateMap<Language,  LanguageGetDto>();
     }
 }

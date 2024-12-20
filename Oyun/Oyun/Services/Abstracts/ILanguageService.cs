@@ -4,9 +4,9 @@ namespace Oyun.Services.Abstracts;
 
 public interface ILanguageService
 {
-    IEnumerable<LanguageGetDto> GetDtos();
+    Task <IEnumerable<LanguageGetDto>> GetDtosAsync();
     Task CreateAsync(LanguageCreateDto dto);
-    Task UpdateAsync(string code, LanguageCreateDto dto);
-    void Delete(string code);
+    Task UpdateAsync(string code, LanguageUpdateDto dto);
+    Task DeleteAsync(string code);
 
 }

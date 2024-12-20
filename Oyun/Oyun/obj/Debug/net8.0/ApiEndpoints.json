@@ -40,7 +40,7 @@
       },
       {
         "Name": "dto",
-        "Type": "Oyun.DTOs.Languages.LanguageCreateDto",
+        "Type": "Oyun.DTOs.Languages.LanguageUpdateDto",
         "IsRequired": true
       }
     ],

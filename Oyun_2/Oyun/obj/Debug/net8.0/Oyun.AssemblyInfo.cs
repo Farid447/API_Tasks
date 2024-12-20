@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Oyun")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0542ac26ad57f3e9b93a8bce52dacb8f4ba56c04")]
 [assembly: System.Reflection.AssemblyProductAttribute("Oyun")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Oyun")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
