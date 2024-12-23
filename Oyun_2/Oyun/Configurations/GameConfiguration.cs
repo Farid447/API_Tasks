@@ -2,21 +2,20 @@
 using Microsoft.EntityFrameworkCore.Metadata.Builders;
 using Oyun.Entities;
 
-namespace Oyun.Configurations
+namespace Oyun.Configurations;
+
+public class GameConfiguration : IEntityTypeConfiguration<Game>
 {
-    public class GameConfiguration : IEntityTypeConfiguration<Game>
+    public void Configure(EntityTypeBuilder<Game> builder)
     {
-        public void Configure(EntityTypeBuilder<Game> builder)
-        {
-            builder
-                .HasKey(x => x.Id);
-            builder
-                .Property(x => x.LanguageCode)
-                .HasDefaultValue("az");
-            builder
-                .HasOne(x => x.Language)
-                .WithMany(x => x.Games)
-                .HasForeignKey(x => x.LanguageCode);
-        }
+        builder
+            .HasKey(x => x.Id);
+        builder
+            .Property(x => x.LanguageCode)
+            .HasDefaultValue("az");
+        builder
+            .HasOne(x => x.Language)
+            .WithMany(x => x.Games)
+            .HasForeignKey(x => x.LanguageCode);
     }
 }
