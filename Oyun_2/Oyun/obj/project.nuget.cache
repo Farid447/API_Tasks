@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LfZxRZ7jP7g=",
+  "dgSpecHash": "w4fU92kmH3s=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\Oyun.csproj",
+  "projectFilePath": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Oyun.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Farid\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\Farid\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

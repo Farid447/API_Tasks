@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\Oyun.csproj": {}
+    "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Oyun.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\Oyun.csproj": {
+    "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Oyun.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\Oyun.csproj",
+        "projectUniqueName": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Oyun.csproj",
         "projectName": "Oyun",
-        "projectPath": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\Oyun.csproj",
+        "projectPath": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Oyun.csproj",
         "packagesPath": "C:\\Users\\Farid\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\Oyun\\obj\\",
+        "outputPath": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

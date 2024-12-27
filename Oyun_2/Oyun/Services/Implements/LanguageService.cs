@@ -42,11 +42,14 @@ public class LanguageService(GameDbContext _context, IMapper _mapper) : ILanguag
     public async Task DeleteAsync(string code)
     {
         var data = await _context.Languages.FirstOrDefaultAsync(x => x.Code == code);
+        
         if(data is not null)
         {
             _context.Languages.Remove(data);
             await _context.SaveChangesAsync();
         }
+
+        throw new LanguageNotFoundException();
     }
 
 }

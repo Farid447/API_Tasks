@@ -6,7 +6,7 @@ namespace Oyun.Services.Abstracts;
 
 public interface IWordService
 {
-    Task<IEnumerable<Word>> GetAllAsync();
+    Task<IEnumerable<WordGetDto>> GetAllAsync();
     Task<int> CreateAsync(WordCreateDto dto);
     Task<int> UpdateAsync(int id, WordUpdateDto dto);
     Task DeleteAsync(int id);

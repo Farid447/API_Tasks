@@ -1,6 +1,7 @@
-﻿namespace Oyun.Services.Abstracts
+﻿using Oyun.Entities;
+
+namespace Oyun.Services.Abstracts;
+public interface IBannedWordService
 {
-    public interface IBannedWordService
-    {
-    }
+    Task UpdateAsync(int wordid, IEnumerable<string> bannedwords);
 }

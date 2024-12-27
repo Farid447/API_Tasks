@@ -1,12 +1,173 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\Oyun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Oyun\\Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Word.cs",
+              "RelativeToolTip": "Oyun\\Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:51:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:46:56.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\BannedWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:35:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Abstracts\\IWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:26:20.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\WordProfile.cs",
+              "RelativeDocumentMoniker": "Oyun\\Profiles\\WordProfile.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\WordProfile.cs",
+              "RelativeToolTip": "Oyun\\Profiles\\WordProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:19:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:18:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzMAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:45:49.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:40:50.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:40:44.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

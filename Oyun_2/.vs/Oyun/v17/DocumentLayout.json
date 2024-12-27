@@ -1,12 +1,343 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\API_Tasks\\Oyun_2\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\Oyun\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\gameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\abstracts\\igameservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\profiles\\gameprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\game\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\game\\gamecreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\serviceregistrations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\gamescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\abstracts\\ilanguageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\entities\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\entities\\word.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\words\\wordcreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\wordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\words\\wordgetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\enums\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\enums\\gamelevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\implements\\bannedwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\services\\abstracts\\iwordservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\dtos\\words\\wordupdatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\profiles\\wordprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\wordscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|c:\\users\\farid\\desktop\\oyun\\oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3975F835-E299-4AEA-8FC4-F7B5010D5497}|Oyun\\Oyun.csproj|solutionrelative:oyun\\controllers\\languagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceRegistrations.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\ServiceRegistrations.cs",
+              "RelativeDocumentMoniker": "Oyun\\ServiceRegistrations.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\ServiceRegistrations.cs",
+              "RelativeToolTip": "Oyun\\ServiceRegistrations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:04:50.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\GamesController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\GamesController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\GamesController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\GamesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-27T00:02:12.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\GameService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\GameService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\GameService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\GameService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAgAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:59:04.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ILanguageService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Abstracts\\ILanguageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:58:33.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\GameProfile.cs",
+              "RelativeDocumentMoniker": "Oyun\\Profiles\\GameProfile.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\GameProfile.cs",
+              "RelativeToolTip": "Oyun\\Profiles\\GameProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:54:51.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IGameService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\IGameService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IGameService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Abstracts\\IGameService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:52:12.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Game.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Game.cs",
+              "RelativeDocumentMoniker": "Oyun\\Entities\\Game.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Game.cs",
+              "RelativeToolTip": "Oyun\\Entities\\Game.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:41:23.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameLevel.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Enums\\GameLevel.cs",
+              "RelativeDocumentMoniker": "Oyun\\Enums\\GameLevel.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Enums\\GameLevel.cs",
+              "RelativeToolTip": "Oyun\\Enums\\GameLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:38:19.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GameCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Game\\GameCreateDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Game\\GameCreateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Game\\GameCreateDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Game\\GameCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:36:52.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WordCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Words\\WordCreateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordCreateDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Words\\WordCreateDto.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T23:27:04.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Word.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Word.cs",
+              "RelativeDocumentMoniker": "Oyun\\Entities\\Word.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Entities\\Word.cs",
+              "RelativeToolTip": "Oyun\\Entities\\Word.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:51:56.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WordUpdateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Words\\WordUpdateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:46:56.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BannedWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\BannedWordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\BannedWordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\BannedWordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\BannedWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:35:57.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IWordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IWordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Abstracts\\IWordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Abstracts\\IWordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Abstracts\\IWordService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:26:20.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "WordProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\WordProfile.cs",
+              "RelativeDocumentMoniker": "Oyun\\Profiles\\WordProfile.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Profiles\\WordProfile.cs",
+              "RelativeToolTip": "Oyun\\Profiles\\WordProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:19:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "WordGetDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeDocumentMoniker": "Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "RelativeToolTip": "Oyun\\DTOs\\Words\\WordGetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T20:18:32.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WordService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\WordService.cs",
+              "RelativeDocumentMoniker": "Oyun\\Services\\Implements\\WordService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Services\\Implements\\WordService.cs",
+              "RelativeToolTip": "Oyun\\Services\\Implements\\WordService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:45:49.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LanguagesController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\LanguagesController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\LanguagesController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\LanguagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:40:50.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WordsController.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\WordsController.cs",
+              "RelativeDocumentMoniker": "Oyun\\Controllers\\WordsController.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Oyun\\Oyun\\Controllers\\WordsController.cs",
+              "RelativeToolTip": "Oyun\\Controllers\\WordsController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-26T19:40:44.334Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
