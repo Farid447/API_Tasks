@@ -11,5 +11,7 @@ namespace Blog.Core.Repositories
     {
         User GetCurrentUser();
         int GetCurrentUserId();
+        Task<User?> GetByUserNameAsync(string userName);
+
     }
 }

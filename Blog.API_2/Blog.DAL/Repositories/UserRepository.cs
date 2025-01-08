@@ -18,6 +18,7 @@ public class UserRepository : GenericRepository<User>, IUserRepository
     }
     public async Task<User?> GetByUserNameAsync(string userName)
     {
+        throw new NotImplementedException();
         return await _context.Users.Where(x => x.Username == userName).FirstOrDefaultAsync();
     }
     public User GetCurrentUser()

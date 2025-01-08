@@ -2,17 +2,25 @@
 using Blog.Core.Repositories;
 using Blog.DAL.Context;
 using Microsoft.AspNetCore.Http;
+using Microsoft.EntityFrameworkCore;
 
 namespace Blog.DAL.Repositories;
 
 public class UserRepository : GenericRepository<User>, IUserRepository
 {
     readonly HttpContext _httpContext;
-    public UserRepository(BlogDbContext _context, IHttpContextAccessor httpContext) : base(_context)
+    readonly BlogDbContext _context;
+
+    public UserRepository(BlogDbContext context, IHttpContextAccessor httpContext) : base(context)
     {
+        _context = context;
         _httpContext = httpContext.HttpContext;
     }
-
+    public async Task<User?> GetByUserNameAsync(string userName)
+    {
+        throw new NotImplementedException();
+        return await _context.Users.Where(x => x.Username == userName).FirstOrDefaultAsync();
+    }
     public User GetCurrentUser()
     {
         throw new NotImplementedException();

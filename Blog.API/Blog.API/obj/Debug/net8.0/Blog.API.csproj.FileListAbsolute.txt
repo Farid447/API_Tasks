@@ -151,3 +151,7 @@ C:\Users\Farid\Desktop\Blog.API\Blog.API\obj\Debug\net8.0\refint\Blog.API.dll
 C:\Users\Farid\Desktop\Blog.API\Blog.API\obj\Debug\net8.0\Blog.API.pdb
 C:\Users\Farid\Desktop\Blog.API\Blog.API\obj\Debug\net8.0\Blog.API.genruntimeconfig.cache
 C:\Users\Farid\Desktop\Blog.API\Blog.API\obj\Debug\net8.0\ref\Blog.API.dll
+C:\Users\Farid\Desktop\Blog.API\Blog.API\bin\Debug\net8.0\AutoMapper.dll
+C:\Users\Farid\Desktop\Blog.API\Blog.API\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Farid\Desktop\Blog.API\Blog.API\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+C:\Users\Farid\Desktop\Blog.API\Blog.API\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll

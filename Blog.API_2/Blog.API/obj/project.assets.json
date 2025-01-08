@@ -1702,6 +1702,7 @@
         "dependencies": {
           "Blog.Core": "1.0.0",
           "Microsoft.AspNetCore.Http.Abstractions": "2.2.0",
+          "Microsoft.EntityFrameworkCore": "8.0.11",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.11"
         },
         "compile": {

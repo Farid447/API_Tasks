@@ -3,88 +3,140 @@
   "WorkspaceRootPath": "C:\\Users\\Farid\\Desktop\\Blog.API\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\dtos\\categorydtos\\categorycreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\dtos\\categorydtos\\categorylistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\dtos\\categorydtos\\categorylistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\dtos\\userdtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\dtos\\userdtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\dtos\\userdtos\\usercreatedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\implements\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\implements\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\implements\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\profiles\\userprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\repositories\\icategoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\repositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74A1358F-E707-44A4-A083-C34B693A52F7}|Blog.DAL\\Blog.DAL.csproj|solutionrelative:blog.dal\\context\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Migrations\\20250107233327_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Blog.DAL\\Migrations\\20250107233327_test3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\enums\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6994EFB2-C2EC-4E98-87CB-248441FA70AA}|Blog.Core\\Blog.Core.csproj|solutionrelative:blog.core\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\serviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\interfaces\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\services\\interfaces\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AF3F1E1-EC5F-4E68-82D3-9AB3517D5ADA}|Blog.API\\Blog.API.csproj|solutionrelative:blog.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\existexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\common\\invalidexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\exceptions\\ibaseexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|c:\\users\\farid\\desktop\\blog.api\\blog.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7882766E-5AA6-4B1A-8842-85BBA09B1915}|Blog.BL\\Blog.BL.csproj|solutionrelative:blog.bl\\helpers\\hashhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -94,76 +146,245 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 12,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Blog.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:34:24.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250107233327_test3.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Migrations\\20250107233327_test3.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Migrations\\20250107233327_test3.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Migrations\\20250107233327_test3.cs",
+              "RelativeToolTip": "Blog.DAL\\Migrations\\20250107233327_test3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:33:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Enums\\Roles.cs",
+              "RelativeDocumentMoniker": "Blog.Core\\Enums\\Roles.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Enums\\Roles.cs",
+              "RelativeToolTip": "Blog.Core\\Enums\\Roles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T23:00:14.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\Services\\Implements\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Implements\\CategoryService.cs",
+              "RelativeToolTip": "Blog.BL\\Services\\Implements\\CategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:58:54.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICategoryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeDocumentMoniker": "Blog.Core\\Repositories\\ICategoryRepository.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Repositories\\ICategoryRepository.cs",
+              "RelativeToolTip": "Blog.Core\\Repositories\\ICategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:58:47.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CategoryListItem.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "RelativeToolTip": "Blog.BL\\DTOs\\CategoryDtos\\CategoryListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:53:29.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoryCreateDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "RelativeToolTip": "Blog.BL\\DTOs\\CategoryDtos\\CategoryCreateDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:53:29.14Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "HashHelper.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Helpers\\HashHelper.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\Helpers\\HashHelper.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Helpers\\HashHelper.cs",
+              "RelativeToolTip": "Blog.BL\\Helpers\\HashHelper.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:52:56.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "RelativeToolTip": "Blog.BL\\DTOs\\UserDtos\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:16:42.227Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "UserProfile.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Profiles\\UserProfile.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\Profiles\\UserProfile.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Profiles\\UserProfile.cs",
+              "RelativeToolTip": "Blog.BL\\Profiles\\UserProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:15:59.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Blog.DAL\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:13:25.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Blog.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "RelativeToolTip": "Blog.BL\\Services\\Interfaces\\ICategoryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:12:35.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Blog.DAL\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Configurations\\UserConfiguration.cs*",
+              "RelativeToolTip": "Blog.DAL\\Configurations\\UserConfiguration.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T22:11:57.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Blog.Core\\Entities\\User.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Entities\\User.cs",
               "RelativeToolTip": "Blog.Core\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T00:41:34.41Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 17,
               "Title": "BlogDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Context\\BlogDbContext.cs",
               "RelativeDocumentMoniker": "Blog.DAL\\Context\\BlogDbContext.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Context\\BlogDbContext.cs",
-              "RelativeToolTip": "Blog.DAL\\Context\\BlogDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Context\\BlogDbContext.cs*",
+              "RelativeToolTip": "Blog.DAL\\Context\\BlogDbContext.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-06T00:35:14.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 19,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\appsettings.json",
               "RelativeDocumentMoniker": "Blog.API\\appsettings.json",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\appsettings.json",
               "RelativeToolTip": "Blog.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-06T00:34:43.701Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 16,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Blog.DAL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\ServiceRegistration.cs",
               "RelativeToolTip": "Blog.DAL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T23:57:23.81Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 22,
               "Title": "ServiceRegistration.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\ServiceRegistration.cs",
               "RelativeDocumentMoniker": "Blog.BL\\ServiceRegistration.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\ServiceRegistration.cs",
               "RelativeToolTip": "Blog.BL\\ServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAvAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAQAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-05T23:57:17.68Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 31,
               "Title": "InvalidException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Exceptions\\Common\\InvalidException.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Exceptions\\Common\\InvalidException.cs",
@@ -176,7 +397,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 23,
               "Title": "IUserService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Interfaces\\IUserService.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Services\\Interfaces\\IUserService.cs",
@@ -189,7 +410,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 30,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Exceptions\\Common\\NotFoundException.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Exceptions\\Common\\NotFoundException.cs",
@@ -202,7 +423,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "ExistException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Exceptions\\Common\\ExistException.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Exceptions\\Common\\ExistException.cs",
@@ -215,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 32,
               "Title": "IBaseException.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Exceptions\\IBaseException.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Exceptions\\IBaseException.cs",
@@ -228,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 4,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Implements\\UserService.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Services\\Implements\\UserService.cs",
@@ -241,33 +462,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Program.cs",
               "RelativeDocumentMoniker": "Blog.API\\Program.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Program.cs",
               "RelativeToolTip": "Blog.API\\Program.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABwAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBQwCQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:09:12.434Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "UserCreateDto.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs",
               "RelativeDocumentMoniker": "Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs",
-              "RelativeToolTip": "Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwB8AAAAHAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs*",
+              "RelativeToolTip": "Blog.BL\\DTOs\\UserDtos\\UserCreateDto.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA3wBcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T23:07:02.462Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 10,
               "Title": "IUserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Repositories\\IUserRepository.cs",
               "RelativeDocumentMoniker": "Blog.Core\\Repositories\\IUserRepository.cs",
@@ -280,19 +501,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Blog.DAL\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\UserRepository.cs",
-              "RelativeToolTip": "Blog.DAL\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAgAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\UserRepository.cs*",
+              "RelativeToolTip": "Blog.DAL\\Repositories\\UserRepository.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwBUAAABdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:05:34.843Z"
+              "WhenOpened": "2025-01-03T23:05:34.843Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 9,
               "Title": "IGenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.Core\\Repositories\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "Blog.Core\\Repositories\\IGenericRepository.cs",
@@ -300,31 +522,34 @@
               "RelativeToolTip": "Blog.Core\\Repositories\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:05:31.079Z"
+              "WhenOpened": "2025-01-03T23:05:31.079Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 13,
               "Title": "GenericRepository.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\GenericRepository.cs",
               "RelativeDocumentMoniker": "Blog.DAL\\Repositories\\GenericRepository.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.DAL\\Repositories\\GenericRepository.cs",
               "RelativeToolTip": "Blog.DAL\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:05:14.435Z"
+              "WhenOpened": "2025-01-03T23:05:14.435Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 27,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "Blog.API\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Controllers\\UsersController.cs",
               "RelativeToolTip": "Blog.API\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwA8AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T23:04:55.798Z"
+              "WhenOpened": "2025-01-03T23:04:55.798Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -334,32 +559,33 @@
               "RelativeDocumentMoniker": "Blog.BL\\Services\\Implements\\AuthService.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Implements\\AuthService.cs",
               "RelativeToolTip": "Blog.BL\\Services\\Implements\\AuthService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABkAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T01:45:17.58Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 25,
               "Title": "IAuthService.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Interfaces\\IAuthService.cs",
               "RelativeDocumentMoniker": "Blog.BL\\Services\\Interfaces\\IAuthService.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.BL\\Services\\Interfaces\\IAuthService.cs",
               "RelativeToolTip": "Blog.BL\\Services\\Interfaces\\IAuthService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-03T01:44:56.424Z"
+              "WhenOpened": "2025-01-03T01:44:56.424Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 26,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "Blog.API\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\Farid\\Desktop\\Blog.API\\Blog.API\\Controllers\\AuthController.cs",
               "RelativeToolTip": "Blog.API\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAAwBUAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAzwBQAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-03T01:40:41.873Z",
               "EditorCaption": ""

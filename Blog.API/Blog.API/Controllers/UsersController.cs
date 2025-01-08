@@ -12,7 +12,8 @@ namespace Blog.API.Controllers
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok(await _service.GetAllAsync());
+            //await _service.GetAllAsync()
+            return Ok();
         }
         [HttpPost]
         public async Task<IActionResult> Post()

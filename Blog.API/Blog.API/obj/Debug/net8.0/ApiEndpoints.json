@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "Blog.API.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "api/Auth/action",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Blog.API.Controllers.CategoriesController",
     "Method": "Get",
     "RelativePath": "api/Categories",
