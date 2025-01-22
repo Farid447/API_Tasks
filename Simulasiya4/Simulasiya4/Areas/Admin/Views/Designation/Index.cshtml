@@ -1,0 +1,31 @@
+﻿@{
+    ViewData["Title"] = "Index";
+}
+@model List<Designation>
+
+<a class="btn btn-info" asp-action="Create">Add Designation</a>
+<div class="card-body">
+    <div class="table-responsive">
+        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+            <thead>
+                <tr>
+                    <th>Name</th>
+                    <th colspan="2">Action</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <td>@item.Name</td>
+                        <td><a class="btn btn-success" asp-action="Update" asp-route-id="@item.Id">Edit</a></td>
+                        <td><a class="btn btn-danger" asp-action="Delete" asp-route-id="@item.Id">Remove</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>
+
+
+
